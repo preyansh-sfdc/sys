@@ -1,4 +1,4 @@
-FROM ubuntu:20.04
+FROM ubuntu:rolling
 
 # Disable interactive prompts on package installation
 ENV DEBIAN_FRONTEND noninteractive
